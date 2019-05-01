@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,300i,700,900');
+
+// Colors
+$color-primary: #0071BA;
+$color-primary-dark: #002469;
+$color-secondary: #D8A31A;
+$color-bg: #f9f9f9;
+
+//#002469
+
+
+// Bulma variables globals
+$family-sans-serif: "Lato", sans-serif;
+$primary: $color-primary;
+$link: $color-primary-dark;
+//$widescreen-enabled: false;
+$fullhd-enabled: false;
+
+// Bulma components globals
+$body-background-color: $color-bg;
+$navbar-height: 4rem;
+
+// Bulma framework
+@import '../../node_modules/bulma/bulma';

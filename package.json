@@ -1,0 +1,28 @@
+{
+  "name": "smartline",
+  "version": "1.0.0",
+  "description": "Smartline - Solução completa para gestão de atendimento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelocesar/smartline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelocesar/smartline/issues"
+  },
+  "homepage": "https://github.com/marcelocesar/smartline#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "bulma": "^0.7.4",
+    "gulp": "^4.0.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
